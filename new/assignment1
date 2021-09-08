@@ -1,0 +1,40 @@
+<!doctype html> <!-- assignment1 -->
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<style>
+a:link {color:blue; text-decoration:none;} a:visited {color:purple; text-decoration:none;}
+a:hover {text-decoration:underline;} a:active{color:red; text-decoration:none;}
+</style>
+<title>김하늘 과제 리스트</title>
+</head>
+<body>
+ <header>
+  <h2>김하늘 과제 리스트</h2>
+  </header>
+  <ul><hr/>
+   <li>1주 1회차</li>
+   <ol>
+   <li>1/3 이상 결석시 F학점 자동 부여</li>
+   </ol><hr/>
+   
+   <li>1주 2회차</li>
+   <ol>
+   <li>garlic0314@gmail.com</li>
+   <li><a href="http://haneuls/haneuls.github.io">haneuls/haneuls.github.io</a></li>
+   <li><a href="http://haneuls.github.io/new/basicHtml.html">애국가 실습</a></li>
+   </ol><hr/>
+   
+   <li>1주 3회차</li>
+   <ol>
+   <li>jdk-11.0.12+7</li>
+   </ol><hr/>
+   
+   <li>1주 4회차</li>
+   <ol>
+   <li><img src='https://user-images.githubusercontent.com/80209712/132512257-98cdb857-b7f9-4dcd-9273-fce73098e4d8.JPG'></li>
+   </ol><hr/>
+  </ul>
+</body>
+</html>
